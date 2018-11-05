@@ -1,0 +1,10 @@
+#game-canvas, h1 {
+  display: block;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+}
